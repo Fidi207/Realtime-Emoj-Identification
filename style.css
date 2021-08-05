@@ -1,0 +1,50 @@
+.heading{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(120, 120, 235);
+    color: aqua;
+    top: 0;
+}
+
+.H_div{
+    float:none;
+    background-color: aqua;
+    padding: 3px;
+    border-radius: 20px;
+    color: blue;
+    box-shadow: 5px 5px 5px rgb(120, 120, 235);
+}
+
+.div2{
+    font-size: 18px;
+    color: blue;
+}
+
+body{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.result{
+    box-shadow: 5px 5px 5px rgb(120, 120, 235);
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+canvas{
+    border: 5px dashed rgb(0, 225, 255);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(120, 120, 235);
+}
+
+.footer{
+    background-color: aquamarine;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+}
